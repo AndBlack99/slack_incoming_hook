@@ -1,6 +1,6 @@
 # slack_incoming_hook
 
-    ```
-    - Bot.java
-    - .github/workflows/send-message.yml
-    ```
+```
+- Bot.java
+- .github/workflows/send-message.yml
+```
